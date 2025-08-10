@@ -7,7 +7,7 @@
 ---
 
 ## 🎯 Objective  
-Electronics and Communications Engineer specializing in *VLSI Design & Verification, with expertise in **SystemVerilog, **Verilog, and advanced **digital design principles*. Passionate about developing semiconductor technologies and enhancing verification workflows.  
+Electronics and Communications Engineer specializing in VLSI Design & Verification, with expertise in SystemVerilog, Verilog, and advanced digital design systems. Passionate about developing semiconductor technologies and enhancing verification workflows.  
 
 ---
 
@@ -56,15 +56,15 @@ Electronics and Communications Engineer specializing in *VLSI Design & Verificat
 - Collaborated with RTL designers for *register-level verification* and enhanced vPlan completeness.  
 
 ### *VLSI Siemens Empower Education Training — 3ST Technologies* (Mar 2023 – Dec 2024)  
-- Trained in *SystemVerilog, Verilog, STA, CDC, CMOS fundamentals, Digital Design, and **Linux*.  
-- Exposure to *EDA toolchains, **UVM methodology, and **data structures* for hardware development.  
+- Trained in SystemVerilog, Verilog, STA, CDC, CMOS fundamentals, Digital Design, and Linux.  
+- Exposure to EDA toolchains, UVM methodology, and data structures for hardware development.  
 
 ---
 
 ## 📂 Key Projects  
 
 - *PCIe Top-Level Verification* — Enhanced coverage, debugged failing bins, and mapped missing instances in vPlan.  
-- *LTI Verification* — Built coverage models, developed timeout manager framework, executed *UVM RAL model, and **UNR flow*.  
+- *LTI Verification* — Built coverage models, developed timeout manager framework, executed *UVM RAL model, and *UNR flow*.  
 - *FIFO Buffer* — Implemented synchronous, asynchronous, and circular FIFO designs.  
 - *LC3 Microcontroller* — Designed datapath & control units in SystemVerilog; simulated and verified ISA execution.  
 - *Smart Board (CIS Sensor)* — Hardware solution using CMOS photoelectric sensors for cost-effective interactive boards.  
